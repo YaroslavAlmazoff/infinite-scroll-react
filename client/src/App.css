@@ -1,0 +1,13 @@
+.App {
+  width: 40%;
+  margin: 0 auto;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h1,
+p {
+  color: white;
+}
+h2 {
+  color: #40a4ff;
+}
